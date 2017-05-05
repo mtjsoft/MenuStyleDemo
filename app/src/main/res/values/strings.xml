@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MenuStyleDemo</string>
+    <string name="style1">Style 1-主视图跟随移动</string>
+    <string name="style2">Style 2-主视图不动</string>
+    <string name="style3">Style 3-</string>
+    <string name="style4">Style 4-</string>
+    <string name="style5">Style 5-</string>
+</resources>
